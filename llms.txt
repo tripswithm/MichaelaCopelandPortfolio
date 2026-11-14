@@ -1,0 +1,36 @@
+# Michaela Alexander-Copeland — Communications Portfolio
+
+Portfolio of Michaela Alexander-Copeland, Social Media Lead at HAUS, previously
+Senior Integrated Communications / Senior Business Communications Analyst at RTX.
+Nearly 10 years in social media, communications, content strategy, and PR.
+Based in Huntsville, Alabama.
+
+This is a single-page site. All sections are in index.html, reached by hash
+links. Replace tripswithm and MichaelaCopelandPorfolio with the real GitHub Pages address.
+
+## Sections
+
+- Home: https://tripswithm.github.io/MichaelaCopelandPorfolio/
+- About Me: https://tripswithm.github.io/MichaelaCopelandPorfolio/#/about
+- Agency Life (HAUS): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/haus
+- Corporate Life (RTX): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/rtx
+- My Brands (What to Eat Huntsville, Trips with M): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/food
+- Small Brands (Making Memories Weddings & Events, 40 Day Reset): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/projects
+- Case Studies (Mayman Aerospace mileage, Corridian launch, "News from RTX" newsletter, Lenovo intern influencers): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/case-studies
+- Resume & Contact: https://tripswithm.github.io/MichaelaCopelandPorfolio/#/resume
+- Galleries: Lenovo (#/lenovo), EcoCAR (#/ecocar), Johnson & Johnson (#/johnson),
+  RTX rotations (#/rtx-r1, #/rtx-r2, #/rtx-r3)
+
+## Highlights
+
+- Social Media Lead at HAUS: 791K+ organic LinkedIn impressions, 13.7K+ reactions
+  across B2B tech clients (Rune Technologies, Mayman Aerospace, Corridian, and more).
+- At RTX: launched RTX's first LinkedIn newsletter, "News from RTX," growing it to
+  200K+ subscribers and averaging 80K+ monthly views; 30+ articles on RTXConnections.
+- Founder of What to Eat Huntsville (17.6K+ TikTok followers) and Trips with M.
+
+## Contact
+
+- LinkedIn: https://www.linkedin.com/in/madisonmichaelaalexander
+- Email: madmichalex@gmail.com
+- What to Eat Huntsville: https://whattoeathuntsville.com
