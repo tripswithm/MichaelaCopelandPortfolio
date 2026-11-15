@@ -4,7 +4,7 @@ Allow: /
 User-agent: OAI-SearchBot
 Allow: /
 
-# Replace tripswithm and MichaelaCopelandPorfolio with your real GitHub Pages address
+# Replace tripswithm and MichaelaCopelandPortfolio with your real GitHub Pages address
 # before publishing, e.g. https://michaela.github.io/portfolio/sitemap.xml
 # For a user site (repo named tripswithm.github.io), use https://tripswithm.github.io/sitemap.xml
-Sitemap: https://tripswithm.github.io/MichaelaCopelandPorfolio/sitemap.xml
+Sitemap: https://tripswithm.github.io/MichaelaCopelandPortfolio/sitemap.xml
