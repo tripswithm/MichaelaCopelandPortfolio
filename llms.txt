@@ -6,18 +6,18 @@ Nearly 10 years in social media, communications, content strategy, and PR.
 Based in Huntsville, Alabama.
 
 This is a single-page site. All sections are in index.html, reached by hash
-links. Replace tripswithm and MichaelaCopelandPorfolio with the real GitHub Pages address.
+links. Replace tripswithm and MichaelaCopelandPortfolio with the real GitHub Pages address.
 
 ## Sections
 
-- Home: https://tripswithm.github.io/MichaelaCopelandPorfolio/
-- About Me: https://tripswithm.github.io/MichaelaCopelandPorfolio/#/about
-- Agency Life (HAUS): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/haus
-- Corporate Life (RTX): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/rtx
-- My Brands (What to Eat Huntsville, Trips with M): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/food
-- Small Brands (Making Memories Weddings & Events, 40 Day Reset): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/projects
-- Case Studies (Mayman Aerospace mileage, Corridian launch, "News from RTX" newsletter, Lenovo intern influencers): https://tripswithm.github.io/MichaelaCopelandPorfolio/#/case-studies
-- Resume & Contact: https://tripswithm.github.io/MichaelaCopelandPorfolio/#/resume
+- Home: https://tripswithm.github.io/MichaelaCopelandPortfolio/
+- About Me: https://tripswithm.github.io/MichaelaCopelandPortfolio/#/about
+- Agency Life (HAUS): https://tripswithm.github.io/MichaelaCopelandPortfolio/#/haus
+- Corporate Life (RTX): https://tripswithm.github.io/MichaelaCopelandPortfolio/#/rtx
+- My Brands (What to Eat Huntsville, Trips with M): https://tripswithm.github.io/MichaelaCopelandPortfolio/#/food
+- Small Brands (Making Memories Weddings & Events, 40 Day Reset): https://tripswithm.github.io/MichaelaCopelandPortfolio/#/projects
+- Case Studies (Mayman Aerospace mileage, Corridian launch, "News from RTX" newsletter, Lenovo intern influencers): https://tripswithm.github.io/MichaelaCopelandPortfolio/#/case-studies
+- Resume & Contact: https://tripswithm.github.io/MichaelaCopelandPortfolio/#/resume
 - Galleries: Lenovo (#/lenovo), EcoCAR (#/ecocar), Johnson & Johnson (#/johnson),
   RTX rotations (#/rtx-r1, #/rtx-r2, #/rtx-r3)
 
