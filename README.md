@@ -34,7 +34,7 @@ earlier content. Your phone number is not in this export.
    (If `.nojekyll` doesn't show in the upload, that's fine — GitHub sometimes
    hides dotfiles; the site still works without it.)
 3. Before uploading, open `robots.txt` and `sitemap.xml` and replace
-   `tripswithm.github.io/MichaelaCopelandPorfolio` with your real address:
+   `tripswithm.github.io/MichaelaCopelandPortfolio` with your real address:
    - Project repo: `https://tripswithm.github.io/portfolio/`
    - User site repo: `https://tripswithm.github.io/`
 4. Go to the repo's **Settings → Pages**. Under "Build and deployment",
