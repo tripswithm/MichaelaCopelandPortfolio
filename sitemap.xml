@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <!-- Replace tripswithm and MichaelaCopelandPortfolio with your real GitHub Pages address.
-    This site is a single page with hash sections (#/haus, #/rtx, etc.),
-    so search engines treat it as one URL. All section text is in index.html. -->
+       This site is a single page with hash sections (#/haus, #/rtx, etc.),
+       so search engines treat it as one URL. All section text is in index.html. -->
   <url>
     <loc>https://tripswithm.github.io/MichaelaCopelandPortfolio/</loc>
-    <lastmod>2026-11-14</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
   </url>
